@@ -73,8 +73,6 @@
 | max_iterations | 100 |
 | all_possible_transitions | True |
 
-Время обучения: ~230 секунд.
-
 ### Результаты
 
 ```
