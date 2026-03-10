@@ -1,0 +1,80 @@
+{
+  "Moscow": {
+    "category": "geo",
+    "texts": []
+  },
+  "Vladimir Putin": {
+    "category": "per",
+    "texts": []
+  },
+  "United Nations": {
+    "category": "org",
+    "texts": []
+  },
+  "President Barack Obama": {
+    "category": "per",
+    "texts": [
+      "President Barack Obama met with German Chancellor Angela Merkel in Berlin on Monday."
+    ]
+  },
+  "German": {
+    "category": "gpe",
+    "texts": [
+      "President Barack Obama met with German Chancellor Angela Merkel in Berlin on Monday."
+    ]
+  },
+  "Chancellor Angela Merkel": {
+    "category": "per",
+    "texts": [
+      "President Barack Obama met with German Chancellor Angela Merkel in Berlin on Monday."
+    ]
+  },
+  "Berlin": {
+    "category": "geo",
+    "texts": [
+      "President Barack Obama met with German Chancellor Angela Merkel in Berlin on Monday."
+    ]
+  },
+  "Monday": {
+    "category": "tim",
+    "texts": [
+      "President Barack Obama met with German Chancellor Angela Merkel in Berlin on Monday."
+    ]
+  },
+  "The United Nations Security Council": {
+    "category": "org",
+    "texts": [
+      "The United Nations Security Council held a meeting in New York on Tuesday."
+    ]
+  },
+  "New York": {
+    "category": "geo",
+    "texts": [
+      "The United Nations Security Council held a meeting in New York on Tuesday."
+    ]
+  },
+  "Tuesday": {
+    "category": "tim",
+    "texts": [
+      "The United Nations Security Council held a meeting in New York on Tuesday."
+    ]
+  },
+  "Apple Inc": {
+    "category": "org",
+    "texts": [
+      "Apple Inc. announced new products at its headquarters in Cupertino, California."
+    ]
+  },
+  "Cupertino": {
+    "category": "geo",
+    "texts": [
+      "Apple Inc. announced new products at its headquarters in Cupertino, California."
+    ]
+  },
+  "California": {
+    "category": "geo",
+    "texts": [
+      "Apple Inc. announced new products at its headquarters in Cupertino, California."
+    ]
+  }
+}
